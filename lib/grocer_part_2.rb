@@ -55,6 +55,8 @@ def checkout(cart, coupons)
   counter = 0 
   while counter < final_count.length
   
+end
+  
   # Consult README for inputs and outputs
   #
   # This method should call
