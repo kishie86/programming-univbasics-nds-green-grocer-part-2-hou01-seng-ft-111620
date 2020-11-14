@@ -61,8 +61,6 @@ def checkout(cart, coupons)
     total -= (100 * 0.10)
   end
   
-end
-  
   # Consult README for inputs and outputs
   #
   # This method should call
@@ -70,6 +68,7 @@ end
   # * apply_coupons
   # * apply_clearance
   #
-  # BEFORE it begins the work of calculating the total (or else you might have
-  # some irritated customers
+  # BEFORE it begins the work 
+  
+  total
 end
