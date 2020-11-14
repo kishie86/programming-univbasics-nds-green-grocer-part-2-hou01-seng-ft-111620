@@ -40,7 +40,6 @@ def apply_clearance(cart)
    counter += 1
   end
  cart
-end
   
   # Consult README for inputs and outputs
   #
